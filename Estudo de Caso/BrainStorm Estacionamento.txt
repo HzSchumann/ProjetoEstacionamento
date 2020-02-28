@@ -1,0 +1,8 @@
+-Software de gerenciamento de contole de vagas ultilizando sensores logo quando o veiculo entrar no estacionamento
+-Diversos métodos de pagamentos ex. cartão de credito, picpay
+-Definir quantidade de vagas maxima
+-Colocar uma cancela lá
+-Treinamento de gerenciamento de vagas para os manobristas
+-Cameras para monitoramento de danos aos patrimonios veiculares das pessoas
+-Cadastro de cliente fidelidade para re atrair clientes insatisfeitos e trazer novos clientes
+-Plataforma de reclamação com base em Salesforce ou js ou oracle ou ir no reclame aqui
