@@ -1,3 +1,5 @@
+Brainstorm Estacionamento- V1
+
 -Software de gerenciamento de contole de vagas ultilizando sensores logo quando o veiculo entrar no estacionamento
 -Diversos métodos de pagamentos ex. cartão de credito, picpay
 -Definir quantidade de vagas maxima
