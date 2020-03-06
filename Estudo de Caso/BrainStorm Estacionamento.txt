@@ -5,4 +5,5 @@
 -Treinamento de gerenciamento de vagas para os manobristas
 -Cameras para monitoramento de danos aos patrimonios veiculares das pessoas
 -Cadastro de cliente fidelidade para re atrair clientes insatisfeitos e trazer novos clientes
--Plataforma de reclamação com base em Salesforce ou js ou oracle ou ir no reclame aqui
+-Plataforma de reclamação
+-Integrar serviços de sem parar
