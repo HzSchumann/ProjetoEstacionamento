@@ -9,3 +9,5 @@ Brainstorm Estacionamento- V1
 -Cadastro de cliente fidelidade para re atrair clientes insatisfeitos e trazer novos clientes
 -Plataforma de reclamação
 -Integrar serviços de sem parar
+
+¬¬
